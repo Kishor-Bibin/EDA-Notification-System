@@ -145,7 +145,7 @@ This project illustrates the basic principles of **Event-Driven Architecture** u
 ## Author
 **Kishor Bibin**  
 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/kishor-bibin)  
-GitHub: [Your GitHub Profile](https://github.com/your-github-profile)
+GitHub: ![Your GitHub Profile](https://github.com/your-github-profile)
 
 ---
 
